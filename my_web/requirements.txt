@@ -1,0 +1,4 @@
+django==1.9.9
+djangorestframework==3.4.7
+redis
+psycopg2
